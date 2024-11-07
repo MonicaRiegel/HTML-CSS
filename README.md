@@ -3,4 +3,4 @@
 
  Neste curso estou aprimorando meus conhecimentos básicos e adquirindo novas habilidades em HTML5 e CSS3.
 
-<a href="https://monicariegel.github.io/HTML-CSS/exercicios/ex001/index.html" target="_blank">Executar exercício 001<a>
+<a href="https://monicariegel.github.io/HTML-CSS/exercicios/ex001/" target="_blank">Executar exercício 001<a>
